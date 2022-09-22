@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="2000px" src="[http://mixandjam.com/wp-content/uploads/2019/11/git.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fgame-icon&psig=AOvVaw1E6iIhm8jFBxiOvTVZxZlL&ust=1663954710402000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMC3mtD4qPoCFQAAAAAdAAAAABAD)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fgame-icon&psig=AOvVaw1E6iIhm8jFBxiOvTVZxZlL&ust=1663954710402000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMC3mtD4qPoCFQAAAAAdAAAAABAD)">    
+    <img width="860px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flovepik.com%2Fimage-450044977%2Fvector-video-game-icon.html&psig=AOvVaw1E6iIhm8jFBxiOvTVZxZlL&ust=1663954710402000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMC3mtD4qPoCFQAAAAAdAAAAABAN">    
 </p>
 
 # HyperCasual-GameMechanic-ShowOff
