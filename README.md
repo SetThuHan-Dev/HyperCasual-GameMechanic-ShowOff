@@ -1,4 +1,7 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fgame-icon&psig=AOvVaw1E6iIhm8jFBxiOvTVZxZlL&ust=1663954710402000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMC3mtD4qPoCFQAAAAAdAAAAABAD # HyperCasual-GameMechanic-ShowOff
+<p align="left">
+    <img width="400px" src="http://mixandjam.com/wp-content/uploads/2019/11/git.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fgame-icon&psig=AOvVaw1E6iIhm8jFBxiOvTVZxZlL&ust=1663954710402000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMC3mtD4qPoCFQAAAAAdAAAAABAD)">    
+</p> 
+# HyperCasual-GameMechanic-ShowOff
 ## This is just a GiF content of recreating similar some hypercasual gameplay.
 
 ## (1) Fill Puzzle GamePlay
