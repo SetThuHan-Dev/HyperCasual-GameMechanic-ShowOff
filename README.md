@@ -1,5 +1,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/2780/2780137.png" align="left" width="50px"/>
-### HyperCasual-GameMechanic-ShowOff
+<br clear="left"/>
+# HyperCasual-GameMechanic-ShowOff
+</br clear="left"/>
 ## This is just a GiF content of recreating similar some hypercasual gameplay.
 
 ## (1) Fill Puzzle GamePlay
