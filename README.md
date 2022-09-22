@@ -1,5 +1,5 @@
-<p align="center">
-    <img width="860px" src="https://cdn-icons-png.flaticon.com/512/2780/2780137.png">    
+<p align="left">
+    <img width="300px" src="https://cdn-icons-png.flaticon.com/512/2780/2780137.png">    
 </p>
 
 # HyperCasual-GameMechanic-ShowOff
