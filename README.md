@@ -14,7 +14,10 @@
 ![IconGif](https://user-images.githubusercontent.com/113447169/191928023-756e8197-3ee9-4514-8e2f-81a7aec776aa.gif)
 
 All arts are done by myself, except cup's eyes and mouth.
-![Gameplay_1](https://user-images.githubusercontent.com/113447169/191939408-9543c8c5-bc79-495e-b50d-dc193cd6df3f.gif)
+
+
+https://user-images.githubusercontent.com/113447169/191940890-2c20ad14-89b0-4250-aaa0-84cb379c8721.mp4
+
 
 
 
