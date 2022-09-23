@@ -11,10 +11,7 @@
 ## (2) Rope and Balls GamePlay
 > Reference Game: https://play.google.com/store/apps/details?id=com.game.rope.and.balls
 
-<img align="left">
-![IconGif](https://user-images.githubusercontent.com/113447169/191928023-756e8197-3ee9-4514-8e2f-81a7aec776aa.gif)
-/>
-All arts are done by myself, except cup's eyes and mouth.
+![IconGif](https://user-images.githubusercontent.com/113447169/191928023-756e8197-3ee9-4514-8e2f-81a7aec776aa.gif) All arts are done by myself, except cup's eyes and mouth.
 
 
 
