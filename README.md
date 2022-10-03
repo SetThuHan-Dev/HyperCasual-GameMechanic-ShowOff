@@ -17,7 +17,7 @@
 
 https://user-images.githubusercontent.com/113447169/191942326-f18d2897-a0b0-43a0-bd04-e2b2c4cd0c1d.mp4
 
-## (3) Demon GameMechanic(ShowOff)
+## (3) TopDown Demon (ShowOff)
 
 https://user-images.githubusercontent.com/113447169/193564040-d7525cd9-04e1-4922-852e-4a661c54e44d.mp4
 
