@@ -24,6 +24,7 @@ https://user-images.githubusercontent.com/113447169/193564040-d7525cd9-04e1-4922
 
 ## (4) A game made under a theme
 > Theme : "SirCodeALot" - which is 2D robot sprite. Available to download for Windows platform.
+> Took me 4 days to develop from start to finish.
 
 [![Available on itch.io](http://jessemillar.github.io/available-on-itchio-badge/badge-color.png)](https://shinnamikaze.itch.io/sircodealot)
 
