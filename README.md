@@ -22,6 +22,9 @@ https://user-images.githubusercontent.com/113447169/191942326-f18d2897-a0b0-43a0
 
 https://user-images.githubusercontent.com/113447169/193564040-d7525cd9-04e1-4922-852e-4a661c54e44d.mp4
 
+## (4) A game made under a theme
+> Theme : "SirCodeALot" - which is 2D robot sprite.
+[![Available on itch.io](http://jessemillar.github.io/available-on-itchio-badge/badge-color.png)](https://shinnamikaze.itch.io/sircodealot)
 
 ## Collaborated Apps
 <img align="left" src="https://user-images.githubusercontent.com/113447169/192099984-e35bdbfe-ce9c-4fd0-a00b-cff960c1aad5.png" width="80px"/>
@@ -51,6 +54,4 @@ https://user-images.githubusercontent.com/113447169/193564040-d7525cd9-04e1-4922
 </a>  
 </p>
 
-
-[![Available on itch.io](http://jessemillar.github.io/available-on-itchio-badge/badge-color.png)](https://shinnamikaze.itch.io/sircodealot)
 
