@@ -51,4 +51,6 @@ https://user-images.githubusercontent.com/113447169/193564040-d7525cd9-04e1-4922
 </a>  
 </p>
 
-https://shinnamikaze.itch.io/sircodealot
+
+[![Available on itch.io](http://jessemillar.github.io/available-on-itchio-badge/badge-color.png)](https://shinnamikaze.itch.io/sircodealot)
+
