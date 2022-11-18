@@ -13,8 +13,6 @@
 
  All arts are done by myself, except icons, cup's eyes and mouth.
 
-///![IconGif](https://user-images.githubusercontent.com/113447169/191928023-756e8197-3ee9-4514-8e2f-81a7aec776aa.gif)
-
 https://user-images.githubusercontent.com/113447169/191942326-f18d2897-a0b0-43a0-bd04-e2b2c4cd0c1d.mp4 
 
 [![Available on itch.io](http://jessemillar.github.io/available-on-itchio-badge/badge-color.png)](https://shinnamikaze.itch.io/rokuballs)
