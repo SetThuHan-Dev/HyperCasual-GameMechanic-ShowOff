@@ -35,8 +35,12 @@ https://user-images.githubusercontent.com/113447169/210966926-47a8cda4-8e23-4db8
 
 ## (5) A game made under a theme in just 2 days (Prototype)
 > Theme : "SirCodeALot" - which is 2D robot sprite. Available to download for Windows platform.
+
 > Modeled 3D Robot based on 2D robot texture in Blender.
+
 > Included Shaders: Grid; Matrix; Outline Glow; Transparent Glow; Plane Distortion
+
+![Screenshot (7)](https://user-images.githubusercontent.com/113447169/211015351-05662b3f-b190-4c6d-90bd-9f54ec729d46.png)
 
 [![Available on itch.io](http://jessemillar.github.io/available-on-itchio-badge/badge-color.png)](https://shinnamikaze.itch.io/sircodealot)
 
