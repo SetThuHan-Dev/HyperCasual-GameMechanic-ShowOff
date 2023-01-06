@@ -10,6 +10,7 @@
 
 ## (2) Rope and Balls GamePlay
 > Reference Game: https://play.google.com/store/apps/details?id=com.game.rope.and.balls
+
 > Included Shaders: Toon; Grid; Distortion; Distorted Texture Animation; LineRenderer TexCutout Animation; Glow Transparent URP Renderer Pass
 
  All arts are done by myself, except icons, cup's eyes and mouth.
@@ -19,21 +20,23 @@ https://user-images.githubusercontent.com/113447169/191942326-f18d2897-a0b0-43a0
 [![Available on itch.io](http://jessemillar.github.io/available-on-itchio-badge/badge-color.png)](https://shinnamikaze.itch.io/rokuballs)
 
 ## (3) TopDown Shooter Demon (ShowOff)
-> All arts are created by myself, except Enemy and Character Models
+> All arts are created by myself, except Enemy and Character Models.
+
 > Included Shaders: Fill Glow; Dynamic Tex Paint; LineRenderer Distortion; Planer Fog; Transparent Glow
 
 https://user-images.githubusercontent.com/113447169/193564040-d7525cd9-04e1-4922-852e-4a661c54e44d.mp4
 
 ## (4) Anime-Stylized Water Effect
-> Note : This is not a paid asset. 
+> Note : This is not a paid asset.
+
 > ShaderGraph Common Content: FarPlane_Distance; SurfaceColor; Depth Color; Refraction/Main/Second NormalMap; Foam Color; Caustic Color/Texture; WaveAmplitude
+
+https://user-images.githubusercontent.com/113447169/210966926-47a8cda4-8e23-4db8-88d2-26b07e39d36d.mp4
 
 ## (5) A game made under a theme in just 2 days (Prototype)
 > Theme : "SirCodeALot" - which is 2D robot sprite. Available to download for Windows platform.
 > Modeled 3D Robot based on 2D robot texture in Blender.
 > Included Shaders: Grid; Matrix; Outline Glow; Transparent Glow; Plane Distortion
-
-https://user-images.githubusercontent.com/113447169/210966926-47a8cda4-8e23-4db8-88d2-26b07e39d36d.mp4
 
 [![Available on itch.io](http://jessemillar.github.io/available-on-itchio-badge/badge-color.png)](https://shinnamikaze.itch.io/sircodealot)
 
