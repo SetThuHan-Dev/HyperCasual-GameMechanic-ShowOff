@@ -19,10 +19,10 @@ https://user-images.githubusercontent.com/113447169/191942326-f18d2897-a0b0-43a0
 
 [![Available on itch.io](http://jessemillar.github.io/available-on-itchio-badge/badge-color.png)](https://shinnamikaze.itch.io/rokuballs)
 
-## (3) TopDown Shooter Demon (ShowOff)
+## (3) TopDown Shooter Demon
 > All arts are created by myself, except Enemy and Character Models.
 
-> Included Shaders: Fill Glow; Dynamic Tex Paint; LineRenderer Distortion; Planer Fog; Transparent Glow; Volumetric Mesh
+> Included Shaders: Fill Glow Dissolve; Dynamic Tex Paint; LineRenderer Distortion; Planer Fog; Transparent Glow; Volumetric Mesh
 
 https://user-images.githubusercontent.com/113447169/193564040-d7525cd9-04e1-4922-852e-4a661c54e44d.mp4
 
@@ -38,7 +38,7 @@ https://user-images.githubusercontent.com/113447169/210966926-47a8cda4-8e23-4db8
 
 > Modeled 3D Robot based on 2D robot texture in Blender.
 
-> Included Shaders: Grid; Matrix; Outline Glow; Transparent Glow; Plane Distortion
+> Included Shaders: Grid; Full Dissolve; Matrix; Outline Glow; Transparent Glow; Plane Distortion
 
 ![Screenshot (7)](https://user-images.githubusercontent.com/113447169/211015351-05662b3f-b190-4c6d-90bd-9f54ec729d46.png)
 
