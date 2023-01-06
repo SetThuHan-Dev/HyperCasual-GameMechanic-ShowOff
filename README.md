@@ -33,7 +33,7 @@ https://user-images.githubusercontent.com/113447169/193564040-d7525cd9-04e1-4922
 
 https://user-images.githubusercontent.com/113447169/210966926-47a8cda4-8e23-4db8-88d2-26b07e39d36d.mp4
 
-## (5) A game made under a theme in just 2 days (Prototype)
+## (5) A game made under a theme, which is held by local game jam org, in just 2 days (Prototype)
 > Theme : "SirCodeALot" - which is 2D robot sprite. Available to download for Windows platform.
 
 > Modeled 3D Robot based on 2D robot texture in Blender.
